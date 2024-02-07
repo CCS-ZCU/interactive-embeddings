@@ -1,4 +1,4 @@
-#  [Repository title]
+#  Interactive Embedddings Visualizations
 
 ---
 ## Authors
