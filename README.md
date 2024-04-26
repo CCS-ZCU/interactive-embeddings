@@ -1,17 +1,22 @@
-#  Interactive Embedddings Visualizations
+# Interactive Embedddings Visualizations
 
 ---
-## Authors
-* [list of all contributors, with their institutional email and ORCID]
 
+## Authors
+
+* Jana Švadlenková
+* Jan Tvrz
+* Vojtěch Kaše
 
 ## License
+
 CC-BY-SA 4.0, see attached License.md
 
 ---
+
 ## Description
 
-[What is the purpose of this repo? Is it related to any specific dataset or publication output?]
+This repository serves for developement of a tool allowing interactive visual exploration of word embedding data based on corpora of early modern scientific literature in Latin (see [this repo](https://github.com/CCS-ZCU/noscemus_ETF/tree/master)). This work is part of the [TOME project](https://tome.flu.cas.cz).
 
 ## Getting started
 
