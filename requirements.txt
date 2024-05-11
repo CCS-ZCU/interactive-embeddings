@@ -2,13 +2,18 @@ virtualenv
 jupyter
 ipykernel
 
+transformers
 pandas
 nltk
+scipy==1.12
 gensim
 networkx
 scikit-learn
 
+dash
+plotly
 matplotlib
 seaborn
+gunicorn
 
 sddk
